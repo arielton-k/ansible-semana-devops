@@ -174,7 +174,7 @@ Para se conectar em cada máquina, clique em cima dela no EC2, e clique em conec
 Exemplo:
 
 ```
-ssh -i "semanadevops-ansible.pem" ubuntu@ec2-90-22-1-40.compute-1.amazonaws.com
+ssh -i "semanadevops-ansible.pem" ubuntu@ecx-xx-xx-x-xx.compute-1.amazonaws.com
 ```
 
 Ao rodar o comando

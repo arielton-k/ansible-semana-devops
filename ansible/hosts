@@ -2,6 +2,6 @@
 localhost ansible_connection=local ansible_python_interpreter=python gather_facts=false
 
 [semanadevops]
-18.212.146.232
-54.89.7.28
-3.85.109.93
+xx.xxx.xxx.xxx
+xx.xx.x.xx
+x.xx.xxx.xx
